@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sonusonam-creator
+/src/backend/database.py      @sonusonam-creator
+/src/backend/routers/auth.py  @sonusonam-creator
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sonusonam-creator
